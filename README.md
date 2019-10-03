@@ -1,2 +1,2 @@
-# MachineLeaqrning
+# MachineLearning
 machine learning practice notebooks
